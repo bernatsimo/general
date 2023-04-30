@@ -1,11 +1,4 @@
 {
-  "cors": {
-    "enabled": true,
-    "origin": "*"
-  }
-}
-
-{
   "llibres": [
     {
       "títol": "El nom del vent",
