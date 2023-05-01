@@ -4,36 +4,36 @@
       "titol": "El nom del vent",
       "any": 2007,
       "autor": "Patrick Rothfuss",
-      "gènere": "Fantasia",
-      "valoració": 4.5
+      "genere": "Fantasia",
+      "valoracio": 4.5
     },
     {
       "titol": "El lladre de raigs",
       "any": 2005,
       "autor": "Rick Riordan",
-      "gènere": "Aventures, Fantasia",
-      "valoració": 4.2
+      "genere": "Aventures, Fantasia",
+      "valoracio": 4.2
     },
     {
       "titol": "La catedral del mar",
       "any": 2006,
       "autor": "Ildefonso Falcones",
-      "gènere": "Històric",
-      "valoració": 4.0
+      "genere": "Històric",
+      "valoracio": 4.0
     },
     {
       "titol": "Mentides perfectes",
       "any": 2013,
       "autor": "Liane Moriarty",
-      "gènere": "Suspens",
-      "valoració": 4.1
+      "genere": "Suspens",
+      "valoracio": 4.1
     },
     {
       "titol": "La noia del tren",
       "any": 2015,
       "autor": "Paula Hawkins",
-      "gènere": "Suspens, Thriller",
-      "valoració": 3.8
+      "genere": "Suspens, Thriller",
+      "valoracio": 3.8
     }
   ]
 }
